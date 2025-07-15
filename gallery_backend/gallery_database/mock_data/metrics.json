@@ -1,0 +1,22 @@
+[
+  {
+    "app_name": "Sample App 1",
+    "elapsed_time": 41.3,
+    "total_cost": 0.25,
+    "date": "2024-06-02T18:19:47.000Z",
+    "project_link": "https://example.com/app1",
+    "cga_version": "1.2.3",
+    "model": "gpt-4",
+    "streaming": false
+  },
+  {
+    "app_name": "Sample App 2",
+    "elapsed_time": 77.2,
+    "total_cost": 0.45,
+    "date": "2024-05-25T16:12:17.000Z",
+    "project_link": "https://example.com/app2",
+    "cga_version": "1.2.3",
+    "model": "gpt-3.5",
+    "streaming": true
+  }
+]
